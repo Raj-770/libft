@@ -152,21 +152,3 @@ This project is an integral part of the 42 School curriculum, designed to deepen
    make fclean
    ```
 
-## Bonus Part (If Applicable)
-
-To include the bonus functions in the library, use:
-
-```bash
-make bonus
-```
-
-Ensure that the mandatory part is perfect before attempting the bonus part.
-
-**Note:** The bonus part will only be assessed if the mandatory part is completed without any issues.
-
-## Additional Notes
-
-- It is recommended to create test programs to validate your functions, even though they are not required for submission.
-- Submit your work to your assigned git repository. Only the work in the git repository will be graded.
-
-Feel free to explore and expand your library throughout the year, and good luck with your future C programming assignments!
